@@ -1,3 +1,3 @@
-# Chai aur backend series
+# Chai aur code
 
-This is a video series on backend with javasript.
+connecting mongofb atlas
